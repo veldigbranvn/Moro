@@ -1,6 +1,8 @@
-#Hei
+# Hei
 
 **FET SKRIFT**
+
+
 *det er jo jævlig fett!*
 
 ![Et bilde av Insignia](Opel-Insignia-Sports-Tourer-B-facelift-2020_thumb.jpg)
@@ -17,4 +19,8 @@ Jeg tenkte det kunne være greit med noen jukselapper til snarveier på Mac, for
 
 Fy faen, Mac ser så stilig ut. ==NYDELIG== skjerm! 
 
-##Ting å ordne
+## Ting å ordne
+
+- Lære å lage lister
+
+
